@@ -1,7 +1,4 @@
 
-<!-- GitHub Profile README for https://github.com/salah-ayash -->
-<!-- Put this file's CONTENT in README.md inside the PUBLIC repository: salah-ayash/salah-ayash -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080B14,50:2563EB,100:06B6D4&amp;height=210&amp;section=header&amp;text=Salah%20Ayash&amp;fontSize=56&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=37&amp;desc=Full-Stack%20%7C%20Mobile%20%7C%20Cloud%20Developer&amp;descAlignY=59&amp;descSize=19" alt="Salah Ayash — Full-Stack, Mobile and Cloud Developer" />
