@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- GitHub Profile README for https://github.com/salah804 -->
+<!-- Put this file's CONTENT in README.md inside the PUBLIC repository: salah804/salah804 -->
 
-<!--
-**salah804/salah804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080B14,50:2563EB,100:06B6D4&amp;height=210&amp;section=header&amp;text=Salah%20Ayash&amp;fontSize=56&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=37&amp;desc=Full-Stack%20%7C%20Mobile%20%7C%20Cloud%20Developer&amp;descAlignY=59&amp;descSize=19" alt="Salah Ayash — Full-Stack, Mobile and Cloud Developer" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=3200&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Flutter+%26+Dart+Mobile+Development;Next.js+%26+TypeScript+Web+Applications;AWS%2C+Firebase+%26+IoT+Solutions;Building+Software+for+the+Real+World" alt="Animated developer introduction" />
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-salah804-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salah804)
+[![CCTV Project](https://img.shields.io/badge/Featured-CCTV%20Camera%20Control-2563EB?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/salah804/cctv-camera-control)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm **Salah Ayash**, a **Computer Science graduate (UTeM, 2025)** who enjoys developing practical **mobile, web, cloud, and IoT solutions**.
+
+- 🔭 **Industry experience:** Flutter CCTV live monitoring and recorded playback, IoT dashboards, and AWS video-streaming workflows during an internship at Bumi Terus ITS Sdn. Bhd.
+- 💻 **I build:** Full-stack web applications, Flutter mobile apps, REST APIs, and cloud-connected systems.
+- 🌍 **Languages:** English and Arabic.
+- 🤝 **Open to:** Software development opportunities and meaningful collaborations.
+- ✨ **Focus:** Turning real-world requirements into clean, usable software.
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=dart,js,ts,php,python,java,cpp,react,nextjs,tailwind,html,css&amp;perline=12" alt="Programming languages and frontend skills" />
+
+**Mobile, Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,express,mysql,sqlite,firebase&amp;perline=10" alt="Mobile, backend and database technologies" />
+
+**Cloud & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,androidstudio,vercel,linux&amp;perline=10" alt="Cloud and development tools" />
+
+</div>
+
+**Additional experience:** RTSP • VLC • GStreamer • FFmpeg • Dahua APIs • Shelly IoT APIs • AWS S3 / Lambda / Kinesis Video Streams • Google Maps
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 📹 **[CCTV Camera Control](https://github.com/salah804/cctv-camera-control)** | Android CCTV monitoring and recorded playback, evolved from internship work into a more complete application. | Flutter, RTSP, VLC, PHP, MySQL |
+| 📖 **[IQRA — Arabic Learning App](https://github.com/salah804/IQRA-Arabic-Learning-App)** | Beginner-friendly Arabic lessons, interactive quizzes, pronunciation practice, and progress tracking. | Flutter, PHP, MySQL |
+| 🏗️ **[Heavy Equipment Rental System](https://github.com/salah804/heavy-equipment-rental-system)** | Customer, equipment and rental management with reporting capabilities. | C++, MySQL |
+| 🗺️ **[Melaka Wanderlust](https://github.com/salah804/MelakaWanderlust)** | University team project for tourism discovery and trip planning; contributed maps, itinerary and related app features. | Flutter, Firebase, Google Maps |
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=salah804&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=080B14&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;icon_color=22D3EE" alt="Salah's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salah804&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=080B14&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;langs_count=8" alt="Languages used in Salah's public GitHub repositories" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=salah804&amp;bg_color=080B14&amp;color=38BDF8&amp;line=22D3EE&amp;point=FFFFFF&amp;area=true&amp;area_color=2563EB&amp;hide_border=true" alt="Salah's GitHub contribution activity graph" />
+
+</div>
+
+> GitHub statistics are generated by third-party services and may be temporarily unavailable or incomplete. Language graphs reflect repository data rather than full proficiency.
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salah804)
+
+**Thanks for visiting!** ⭐
+
+</div>
