@@ -5,8 +5,11 @@
 
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=19&amp;duration=3200&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=530&amp;lines=Flutter+%26+Dart+Mobile+Development;Next.js+%26+TypeScript+Web+Applications;AWS%2C+Firebase+%26+IoT+Solutions;Building+Software+for+the+Real+World" alt="Animated developer introduction" />
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-salah-ayash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salah-ayash)
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-salah--ayash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salah-ayash)
+
 [![CCTV Project](https://img.shields.io/badge/Featured-CCTV%20Camera%20Control-2563EB?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/salah-ayash/cctv-camera-control)
+
 
 </div>
 
