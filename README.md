@@ -14,6 +14,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://salahayash.vercel.app)
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salah%20Ayash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-ayash/)
+
+
+
 </div>
 
 ---
