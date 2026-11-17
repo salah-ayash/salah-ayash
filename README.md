@@ -7,15 +7,11 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-salah--ayash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salah-ayash)
+[![GitHub](https://img.shields.io/badge/GitHub-salah--ayash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salah-ayash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salah%20Ayash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-ayash/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://salahayash.vercel.app)
+
+<br/>
+
 [![Featured Project](https://img.shields.io/badge/Featured-CCTV%20Camera%20Control-2563EB?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/salah-ayash/cctv-camera-control)
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://salahayash.vercel.app)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salah%20Ayash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-ayash/)
-
 
 
 </div>
