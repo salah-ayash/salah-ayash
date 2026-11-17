@@ -10,6 +10,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-salah--ayash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salah-ayash)
 [![Featured Project](https://img.shields.io/badge/Featured-CCTV%20Camera%20Control-2563EB?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/salah-ayash/cctv-camera-control)
 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://salahayash.vercel.app)
+
+
 </div>
 
 ---
