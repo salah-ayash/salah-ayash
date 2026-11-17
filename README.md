@@ -22,6 +22,10 @@
 
 I'm **Salah Ayash**, a Computer Science graduate from **Universiti Teknikal Malaysia Melaka (UTeM), 2025**, passionate about developing practical and innovative software solutions.
 
+
+- 🌐 **Portfolio:** [salahayash.vercel.app](https://salahayash.vercel.app)
+
+
 My experience includes building mobile applications, web dashboards, backend systems, IoT integrations, and cloud-based video solutions.
 
 - 🎓 **Education:** Bachelor of Computer Science — UTeM
